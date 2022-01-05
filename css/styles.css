@@ -286,7 +286,7 @@ footer {
 }
 
 #lead-content h1 {
-    color: #ff0000;
+    color: #fff;
     font-weight: 900;
     font-size: 5em;
     letter-spacing: 0.05em;
@@ -294,7 +294,7 @@ footer {
 }
 
 #lead-content h2 {
-    color: #ff0000;
+    color: #a0cfee;
     font-weight: 500;
     font-size: 2.25em;
     margin-bottom: 15px
